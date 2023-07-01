@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
+	"github.com/gin-gonic/gin"
 	"github.com/sy04/ecommerce-go/controllers"
 	"github.com/sy04/ecommerce-go/database"
-	"github.com/sy04/gin-gonic/gin"
 )
 
 func main() {
